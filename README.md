@@ -1,4 +1,4 @@
-# flutter_weight_calculator
+# flutter_test
 
 A new Flutter project.
 
